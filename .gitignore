@@ -1,0 +1,24 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore PHPStorm / VSCode settings
+.idea/
+.vscode/
+
+# Ignore Composer vendor directory
+vendor/
+
+# Ignore node modules if any
+node_modules/
+
+# Ignore backups and temporary files
+*.log
+*.cache
+*.tmp
+*.bak
+*~
+
+# Ignore system files
+*.swp
+*.swo
